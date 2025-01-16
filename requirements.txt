@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+jupyter
+scikit-learn
+aif360
+aif360[Reductions]
+aif360[AdversarialDebiasing]
+aif360[inFairness]
+fpdf
